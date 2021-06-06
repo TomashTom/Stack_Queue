@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Stack and Queus/1.0.0": {
+        "runtime": {
+          "Stack and Queus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stack and Queus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
